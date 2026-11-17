@@ -1,0 +1,19 @@
+Package: DataStats
+Type: Package
+Title: DataStats (Makes data analysis and visualizaion easier)
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Chance", "Mauceri",
+      email = "chancem11@usf.edu",
+      role = c("aut", "cre")
+    )
+  )
+Description: More about what it does (maybe more than one line).
+    Continuation lines should be indented.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Config/roxygen2/version: 8.1.1
+Imports: 
+    ggplot2
